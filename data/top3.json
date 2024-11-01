@@ -1,0 +1,4441 @@
+{
+    "age": [
+        {
+            "id": "be927d03",
+            "name": "Ashley Young",
+            "position": "DF,MF",
+            "team": "Everton",
+            "value": 38
+        },
+        {
+            "id": "86e7deaf",
+            "name": "Thiago Silva",
+            "position": "DF",
+            "team": "Chelsea",
+            "value": 38
+        },
+        {
+            "id": "9328b835",
+            "name": "Łukasz Fabiański",
+            "position": "GK",
+            "team": "West Ham",
+            "value": 38
+        }
+    ],
+    "playingTime.matchesPlayed": [
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 38
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 38
+        },
+        {
+            "id": "2da834f1",
+            "name": "Carlton Morris",
+            "position": "FW,MF",
+            "team": "Luton Town",
+            "value": 38
+        }
+    ],
+    "playingTime.starts": [
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 38
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 38
+        },
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 38
+        }
+    ],
+    "playingTime.minutes": [
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 3420
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 3420
+        },
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 3420
+        }
+    ],
+    "performance.nonPenaltyGoals": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 20
+        },
+        {
+            "id": "aed3a70f",
+            "name": "Ollie Watkins",
+            "position": "FW",
+            "team": "Aston Villa",
+            "value": 19
+        },
+        {
+            "id": "ed1e53f3",
+            "name": "Phil Foden",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 19
+        }
+    ],
+    "performance.goals": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 27
+        },
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 22
+        },
+        {
+            "id": "8e92be30",
+            "name": "Alexander Isak",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 21
+        }
+    ],
+    "performance.assits": [
+        {
+            "id": "aed3a70f",
+            "name": "Ollie Watkins",
+            "position": "FW",
+            "team": "Aston Villa",
+            "value": 13
+        },
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 11
+        },
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 10
+        }
+    ],
+    "performance.yellowCards": [
+        {
+            "id": "a78ff07f",
+            "name": "João Palhinha",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 13
+        },
+        {
+            "id": "35141f4c",
+            "name": "Marcos Senesi",
+            "position": "DF",
+            "team": "Bournemouth",
+            "value": 13
+        },
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 12
+        }
+    ],
+    "performance.redCards": [
+        {
+            "id": "78b8ac63",
+            "name": "Oliver McBurnie",
+            "position": "FW",
+            "team": "Sheffield Utd",
+            "value": 2
+        },
+        {
+            "id": "1265a93a",
+            "name": "Reece James",
+            "position": "DF",
+            "team": "Chelsea",
+            "value": 2
+        },
+        {
+            "id": "6c203af0",
+            "name": "Yves Bissouma",
+            "position": "MF",
+            "team": "Tottenham",
+            "value": 2
+        }
+    ],
+    "expected.xG": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 29.2
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 21.2
+        },
+        {
+            "id": "8e92be30",
+            "name": "Alexander Isak",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 20.3
+        }
+    ],
+    "expected.npxG": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 22.9
+        },
+        {
+            "id": "9c36ed83",
+            "name": "Nicolas Jackson",
+            "position": "FW",
+            "team": "Chelsea",
+            "value": 18.6
+        },
+        {
+            "id": "e77dc3b2",
+            "name": "Dominic Solanke",
+            "position": "FW",
+            "team": "Bournemouth",
+            "value": 17.2
+        }
+    ],
+    "expected.xAG": [
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 11.8
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 11.8
+        },
+        {
+            "id": "92e7e919",
+            "name": "Son Heung-min",
+            "position": "FW",
+            "team": "Tottenham",
+            "value": 11.8
+        }
+    ],
+    "progression.prgC": [
+        {
+            "id": "fffea3e5",
+            "name": "Jeremy Doku",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 218
+        },
+        {
+            "id": "7aa8adfe",
+            "name": "Alejandro Garnacho",
+            "position": "FW",
+            "team": "Manchester Utd",
+            "value": 178
+        },
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 155
+        }
+    ],
+    "progression.prgP": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 376
+        },
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 344
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 302
+        }
+    ],
+    "progression.prgR": [
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 508
+        },
+        {
+            "id": "df3cda47",
+            "name": "Dejan Kulusevski",
+            "position": "FW,MF",
+            "team": "Tottenham",
+            "value": 388
+        },
+        {
+            "id": "48a5a5d6",
+            "name": "Gabriel Martinelli",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 345
+        }
+    ],
+    "per90Minutes.Gls": [
+        {
+            "id": "15f24fe7",
+            "name": "Sasa Kalajdzic",
+            "position": "FW",
+            "team": "Wolves",
+            "value": 1.08
+        },
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 0.95
+        },
+        {
+            "id": "414184f7",
+            "name": "Jhon Durán",
+            "position": "FW,MF",
+            "team": "Aston Villa",
+            "value": 0.95
+        }
+    ],
+    "per90Minutes.Ast": [
+        {
+            "id": "886f9aac",
+            "name": "Manor Solomon",
+            "position": "FW",
+            "team": "Tottenham",
+            "value": 0.9
+        },
+        {
+            "id": "6fe90922",
+            "name": "Ivan Perišić",
+            "position": "FW",
+            "team": "Tottenham",
+            "value": 0.87
+        },
+        {
+            "id": "e46012d4",
+            "name": "Kevin De Bruyne",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 0.74
+        }
+    ],
+    "per90Minutes.G+A": [
+        {
+            "id": "9a28eba4",
+            "name": "Adama Traoré",
+            "position": "FW,MF",
+            "team": "Fulham",
+            "value": 1.19
+        },
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 1.14
+        },
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 1.13
+        }
+    ],
+    "per90Minutes.G-PK": [
+        {
+            "id": "15f24fe7",
+            "name": "Sasa Kalajdzic",
+            "position": "FW",
+            "team": "Wolves",
+            "value": 1.08
+        },
+        {
+            "id": "414184f7",
+            "name": "Jhon Durán",
+            "position": "FW,MF",
+            "team": "Aston Villa",
+            "value": 0.95
+        },
+        {
+            "id": "01ce9e70",
+            "name": "Kieffer Moore",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 0.83
+        }
+    ],
+    "per90Minutes.G+A-PK": [
+        {
+            "id": "9a28eba4",
+            "name": "Adama Traoré",
+            "position": "FW,MF",
+            "team": "Fulham",
+            "value": 1.19
+        },
+        {
+            "id": "f8eca1b6",
+            "name": "Enes Ünal",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 1.1
+        },
+        {
+            "id": "15f24fe7",
+            "name": "Sasa Kalajdzic",
+            "position": "FW",
+            "team": "Wolves",
+            "value": 1.08
+        }
+    ],
+    "per90Minutes.xG": [
+        {
+            "id": "01ce9e70",
+            "name": "Kieffer Moore",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 1.23
+        },
+        {
+            "id": "4bcf39f6",
+            "name": "Neal Maupay",
+            "position": "FW",
+            "team": "Everton",
+            "value": 1.16
+        },
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 1.03
+        }
+    ],
+    "per90Minutes.xAG": [
+        {
+            "id": "e46012d4",
+            "name": "Kevin De Bruyne",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 0.85
+        },
+        {
+            "id": "6fe90922",
+            "name": "Ivan Perišić",
+            "position": "FW",
+            "team": "Tottenham",
+            "value": 0.75
+        },
+        {
+            "id": "15f24fe7",
+            "name": "Sasa Kalajdzic",
+            "position": "FW",
+            "team": "Wolves",
+            "value": 0.52
+        }
+    ],
+    "per90Minutes.xG+xAG": [
+        {
+            "id": "01ce9e70",
+            "name": "Kieffer Moore",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 1.44
+        },
+        {
+            "id": "4bcf39f6",
+            "name": "Neal Maupay",
+            "position": "FW",
+            "team": "Everton",
+            "value": 1.22
+        },
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 1.18
+        }
+    ],
+    "per90Minutes.npxG": [
+        {
+            "id": "01ce9e70",
+            "name": "Kieffer Moore",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 1.23
+        },
+        {
+            "id": "4bcf39f6",
+            "name": "Neal Maupay",
+            "position": "FW",
+            "team": "Everton",
+            "value": 1.16
+        },
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 0.81
+        }
+    ],
+    "per90Minutes.npxG+xAG": [
+        {
+            "id": "01ce9e70",
+            "name": "Kieffer Moore",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 1.44
+        },
+        {
+            "id": "4bcf39f6",
+            "name": "Neal Maupay",
+            "position": "FW",
+            "team": "Everton",
+            "value": 1.22
+        },
+        {
+            "id": "15f24fe7",
+            "name": "Sasa Kalajdzic",
+            "position": "FW",
+            "team": "Wolves",
+            "value": 1.09
+        }
+    ],
+    "goalKeeping.performance.GA": [
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 85.0
+        },
+        {
+            "id": "96cf7b61",
+            "name": "Wes Foderingham",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 79.0
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 63.0
+        }
+    ],
+    "goalKeeping.performance.GA90": [
+        {
+            "id": "32e7ce92",
+            "name": "Loris Karius",
+            "position": "GK",
+            "team": "Newcastle Utd",
+            "value": 4.0
+        },
+        {
+            "id": "67f649be",
+            "name": "Ionuț Radu",
+            "position": "GK",
+            "team": "Bournemouth",
+            "value": 3.5
+        },
+        {
+            "id": "3f034750",
+            "name": "Ivo Grbić",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 2.92
+        }
+    ],
+    "goalKeeping.performance.SoTA": [
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 221.0
+        },
+        {
+            "id": "96cf7b61",
+            "name": "Wes Foderingham",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 204.0
+        },
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 203.0
+        }
+    ],
+    "goalKeeping.performance.Saves": [
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 146.0
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 140.0
+        },
+        {
+            "id": "2f965a72",
+            "name": "Alphonse Areola",
+            "position": "GK",
+            "team": "West Ham",
+            "value": 136.0
+        }
+    ],
+    "goalKeeping.performance.Save%": [
+        {
+            "id": "99aa1a84",
+            "name": "Arijanet Muric",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 80.8
+        },
+        {
+            "id": "fe558029",
+            "name": "Mark Travers",
+            "position": "GK",
+            "team": "Bournemouth",
+            "value": 77.8
+        },
+        {
+            "id": "339fe0e8",
+            "name": "Thomas Strakosha",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 75.0
+        }
+    ],
+    "goalKeeping.performance.W": [
+        {
+            "id": "3bb7b8b4",
+            "name": "Ederson",
+            "position": "GK",
+            "team": "Manchester City",
+            "value": 24.0
+        },
+        {
+            "id": "98ea5115",
+            "name": "David Raya",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 23.0
+        },
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 20.0
+        }
+    ],
+    "goalKeeping.performance.D": [
+        {
+            "id": "2f965a72",
+            "name": "Alphonse Areola",
+            "position": "GK",
+            "team": "West Ham",
+            "value": 9.0
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 9.0
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 9.0
+        }
+    ],
+    "goalKeeping.performance.L": [
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 24.0
+        },
+        {
+            "id": "96cf7b61",
+            "name": "Wes Foderingham",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 22.0
+        },
+        {
+            "id": "259fea27",
+            "name": "James Trafford",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 20.0
+        }
+    ],
+    "goalKeeping.performance.CS": [
+        {
+            "id": "98ea5115",
+            "name": "David Raya",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 16.0
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 13.0
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 10.0
+        }
+    ],
+    "goalKeeping.performance.CS%": [
+        {
+            "id": "c1242d4e",
+            "name": "Stefan Ortega",
+            "position": "GK",
+            "team": "Manchester City",
+            "value": 60.0
+        },
+        {
+            "id": "98ea5115",
+            "name": "David Raya",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 50.0
+        },
+        {
+            "id": "fe558029",
+            "name": "Mark Travers",
+            "position": "GK",
+            "team": "Bournemouth",
+            "value": 50.0
+        }
+    ],
+    "goalKeeping.penaltyKicks.PKatt": [
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 8.0
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 8.0
+        },
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 8.0
+        }
+    ],
+    "goalKeeping.penaltyKicks.PKA": [
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 8.0
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 8.0
+        },
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 8.0
+        }
+    ],
+    "goalKeeping.penaltyKicks.PKsv": [
+        {
+            "id": "2f965a72",
+            "name": "Alphonse Areola",
+            "position": "GK",
+            "team": "West Ham",
+            "value": 2.0
+        },
+        {
+            "id": "99aa1a84",
+            "name": "Arijanet Muric",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 1.0
+        },
+        {
+            "id": "98ea5115",
+            "name": "David Raya",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 1.0
+        }
+    ],
+    "goalKeeping.penaltyKicks.PKm": [
+        {
+            "id": "3f034750",
+            "name": "Ivo Grbić",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 1.0
+        },
+        {
+            "id": "96cf7b61",
+            "name": "Wes Foderingham",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 1.0
+        },
+        {
+            "id": "0cf321c8",
+            "name": "Đorđe Petrović",
+            "position": "GK",
+            "team": "Chelsea",
+            "value": 1.0
+        }
+    ],
+    "goalKeeping.penaltyKicks.Save%": [
+        {
+            "id": "e7ee38c3",
+            "name": "Robin Olsen",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 100.0
+        },
+        {
+            "id": "99aa1a84",
+            "name": "Arijanet Muric",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 50.0
+        },
+        {
+            "id": "98ea5115",
+            "name": "David Raya",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 33.3
+        }
+    ],
+    "advancedGoalkeeping.goals.GA": [
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 85.0
+        },
+        {
+            "id": "96cf7b61",
+            "name": "Wes Foderingham",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 79.0
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 63.0
+        }
+    ],
+    "advancedGoalkeeping.goals.PKA": [
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 8.0
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 8.0
+        },
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 8.0
+        }
+    ],
+    "advancedGoalkeeping.goals.FK": [
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 2.0
+        },
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 1.0
+        },
+        {
+            "id": "98ea5115",
+            "name": "David Raya",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 1.0
+        }
+    ],
+    "advancedGoalkeeping.goals.CK": [
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 13.0
+        },
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 11.0
+        },
+        {
+            "id": "7956236f",
+            "name": "Emiliano Martínez",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 10.0
+        }
+    ],
+    "advancedGoalkeeping.goals.OG": [
+        {
+            "id": "96cf7b61",
+            "name": "Wes Foderingham",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 5.0
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 4.0
+        },
+        {
+            "id": "7956236f",
+            "name": "Emiliano Martínez",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 4.0
+        }
+    ],
+    "advancedGoalkeeping.expected.PSxG": [
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 77.6
+        },
+        {
+            "id": "96cf7b61",
+            "name": "Wes Foderingham",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 70.5
+        },
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 65.9
+        }
+    ],
+    "advancedGoalkeeping.expected.PSxG/SoT": [
+        {
+            "id": "68db6358",
+            "name": "Daniel Bentley",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 0.39
+        },
+        {
+            "id": "7956236f",
+            "name": "Emiliano Martínez",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 0.37
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 0.34
+        }
+    ],
+    "advancedGoalkeeping.expected.PSxG+/-": [
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 8.9
+        },
+        {
+            "id": "7956236f",
+            "name": "Emiliano Martínez",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 6.8
+        },
+        {
+            "id": "99aa1a84",
+            "name": "Arijanet Muric",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 6.7
+        }
+    ],
+    "advancedGoalkeeping.expected./90": [
+        {
+            "id": "99aa1a84",
+            "name": "Arijanet Muric",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 0.67
+        },
+        {
+            "id": "c1242d4e",
+            "name": "Stefan Ortega",
+            "position": "GK",
+            "team": "Manchester City",
+            "value": 0.28
+        },
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 0.26
+        }
+    ],
+    "advancedGoalkeeping.launched.Cmp": [
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 360.0
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 271.0
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 242.0
+        }
+    ],
+    "advancedGoalkeeping.launched.Att": [
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 901.0
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 808.0
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 647.0
+        }
+    ],
+    "advancedGoalkeeping.launched.Cmp%": [
+        {
+            "id": "03df04ff",
+            "name": "Odisseas Vlachodimos",
+            "position": "GK",
+            "team": "Nott'ham Forest",
+            "value": 46.7
+        },
+        {
+            "id": "3bb7b8b4",
+            "name": "Ederson",
+            "position": "GK",
+            "team": "Manchester City",
+            "value": 46.3
+        },
+        {
+            "id": "4a51ba65",
+            "name": "Matt Turner",
+            "position": "GK",
+            "team": "Nott'ham Forest",
+            "value": 45.0
+        }
+    ],
+    "advancedGoalkeeping.passes.Att(GK)": [
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 1372.0
+        },
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 1363.0
+        },
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 1351.0
+        }
+    ],
+    "advancedGoalkeeping.passes.Thr": [
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 193.0
+        },
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 190.0
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 167.0
+        }
+    ],
+    "advancedGoalkeeping.passes.Launch%": [
+        {
+            "id": "3f034750",
+            "name": "Ivo Grbić",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 57.5
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 56.7
+        },
+        {
+            "id": "fe558029",
+            "name": "Mark Travers",
+            "position": "GK",
+            "team": "Bournemouth",
+            "value": 55.4
+        }
+    ],
+    "advancedGoalkeeping.passes.AvgLen": [
+        {
+            "id": "3f034750",
+            "name": "Ivo Grbić",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 59.4
+        },
+        {
+            "id": "fe558029",
+            "name": "Mark Travers",
+            "position": "GK",
+            "team": "Bournemouth",
+            "value": 55.6
+        },
+        {
+            "id": "259fea27",
+            "name": "James Trafford",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 54.2
+        }
+    ],
+    "advancedGoalkeeping.goalKicks.Att": [
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 341.0
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 289.0
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 273.0
+        }
+    ],
+    "advancedGoalkeeping.goalKicks.Launch%": [
+        {
+            "id": "3f034750",
+            "name": "Ivo Grbić",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 89.9
+        },
+        {
+            "id": "fe558029",
+            "name": "Mark Travers",
+            "position": "GK",
+            "team": "Bournemouth",
+            "value": 80.8
+        },
+        {
+            "id": "259fea27",
+            "name": "James Trafford",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 78.3
+        }
+    ],
+    "advancedGoalkeeping.goalKicks.AvgLen": [
+        {
+            "id": "3f034750",
+            "name": "Ivo Grbić",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 59.4
+        },
+        {
+            "id": "fe558029",
+            "name": "Mark Travers",
+            "position": "GK",
+            "team": "Bournemouth",
+            "value": 55.6
+        },
+        {
+            "id": "259fea27",
+            "name": "James Trafford",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 54.2
+        }
+    ],
+    "advancedGoalkeeping.crosses.Opp": [
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 601.0
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 570.0
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 568.0
+        }
+    ],
+    "advancedGoalkeeping.crosses.Stp": [
+        {
+            "id": "7956236f",
+            "name": "Emiliano Martínez",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 45.0
+        },
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 45.0
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 44.0
+        }
+    ],
+    "advancedGoalkeeping.crosses.Stp%": [
+        {
+            "id": "466fb2c5",
+            "name": "Aaron Ramsdale",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 17.4
+        },
+        {
+            "id": "99aa1a84",
+            "name": "Arijanet Muric",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 14.0
+        },
+        {
+            "id": "e7ee38c3",
+            "name": "Robin Olsen",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 13.0
+        }
+    ],
+    "advancedGoalkeeping.sweeper.#OPA": [
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 81.0
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 76.0
+        },
+        {
+            "id": "7956236f",
+            "name": "Emiliano Martínez",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 69.0
+        }
+    ],
+    "advancedGoalkeeping.sweeper.#OPA/90": [
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 8.0
+        },
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 8.0
+        },
+        {
+            "id": "903b6e8b",
+            "name": "José Sá",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 8.0
+        }
+    ],
+    "advancedGoalkeeping.sweeper.AvgDist": [
+        {
+            "id": "28300a16",
+            "name": "Jason Steele",
+            "position": "GK",
+            "team": "Brighton",
+            "value": 20.6
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 20.5
+        },
+        {
+            "id": "32e7ce92",
+            "name": "Loris Karius",
+            "position": "GK",
+            "team": "Newcastle Utd",
+            "value": 19.5
+        }
+    ],
+    "shooting.standards.Gls": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 27
+        },
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 22
+        },
+        {
+            "id": "8e92be30",
+            "name": "Alexander Isak",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 21
+        }
+    ],
+    "shooting.standards.Sh": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 113
+        },
+        {
+            "id": "4d77b365",
+            "name": "Darwin Núñez",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 107
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 107
+        }
+    ],
+    "shooting.standards.SoT": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 50
+        },
+        {
+            "id": "ed1e53f3",
+            "name": "Phil Foden",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 48
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 47
+        }
+    ],
+    "shooting.standards.SoT%": [
+        {
+            "id": "399e9474",
+            "name": "Amari'i Bell",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 100.0
+        },
+        {
+            "id": "77816c91",
+            "name": "Bénie Adama Traore",
+            "position": "FW,MF",
+            "team": "Sheffield Utd",
+            "value": 100.0
+        },
+        {
+            "id": "fed96827",
+            "name": "Chris Mepham",
+            "position": "DF",
+            "team": "Bournemouth",
+            "value": 100.0
+        }
+    ],
+    "shooting.standards.Sh/90": [
+        {
+            "id": "f8eca1b6",
+            "name": "Enes Ünal",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 6.31
+        },
+        {
+            "id": "9cfbad36",
+            "name": "Julio Enciso",
+            "position": "MF,FW",
+            "team": "Brighton",
+            "value": 5.31
+        },
+        {
+            "id": "01ce9e70",
+            "name": "Kieffer Moore",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 5.0
+        }
+    ],
+    "shooting.standards.SoT/90": [
+        {
+            "id": "4bcf39f6",
+            "name": "Neal Maupay",
+            "position": "FW",
+            "team": "Everton",
+            "value": 3.24
+        },
+        {
+            "id": "71ef519e",
+            "name": "Matt Ritchie",
+            "position": "FW,MF",
+            "team": "Newcastle Utd",
+            "value": 2.81
+        },
+        {
+            "id": "f8eca1b6",
+            "name": "Enes Ünal",
+            "position": "FW,MF",
+            "team": "Bournemouth",
+            "value": 2.2
+        }
+    ],
+    "shooting.standards.G/Sh": [
+        {
+            "id": "ca22ccb0",
+            "name": "Hannibal Mejbri",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 1.0
+        },
+        {
+            "id": "28b40c9c",
+            "name": "Tim Ream",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 1.0
+        },
+        {
+            "id": "5a7301ae",
+            "name": "Leander Dendoncker",
+            "position": "MF",
+            "team": "Aston Villa",
+            "value": 0.5
+        }
+    ],
+    "shooting.standards.G/SoT": [
+        {
+            "id": "d91f104d",
+            "name": "Alfie Gilchrist",
+            "position": "DF",
+            "team": "Chelsea",
+            "value": 1.0
+        },
+        {
+            "id": "8df7a2fb",
+            "name": "Ben Mee",
+            "position": "DF",
+            "team": "Brentford",
+            "value": 1.0
+        },
+        {
+            "id": "a36524bf",
+            "name": "Calvin Bassey",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 1.0
+        }
+    ],
+    "shooting.standards.dist": [
+        {
+            "id": "43439614",
+            "name": "Oliver Norwood",
+            "position": "MF",
+            "team": "Sheffield Utd",
+            "value": 32.9
+        },
+        {
+            "id": "86dd77d1",
+            "name": "Kyle Walker",
+            "position": "DF",
+            "team": "Manchester City",
+            "value": 29.4
+        },
+        {
+            "id": "16264a81",
+            "name": "Moisés Caicedo",
+            "position": "MF",
+            "team": "Chelsea",
+            "value": 29.0
+        }
+    ],
+    "shooting.standards.FK": [
+        {
+            "id": "3515d404",
+            "name": "James Ward-Prowse",
+            "position": "MF",
+            "team": "West Ham",
+            "value": 16
+        },
+        {
+            "id": "15ab5a2b",
+            "name": "Julián Álvarez",
+            "position": "MF,FW",
+            "team": "Manchester City",
+            "value": 13
+        },
+        {
+            "id": "ae4fc6a4",
+            "name": "Eberechi Eze",
+            "position": "MF,FW",
+            "team": "Crystal Palace",
+            "value": 12
+        }
+    ],
+    "shooting.standards.PK": [
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 9
+        },
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 7
+        },
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 6
+        }
+    ],
+    "shooting.standards.PKatt": [
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 9
+        },
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 8
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 7
+        }
+    ],
+    "shooting.expected.xG": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 29.2
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 21.2
+        },
+        {
+            "id": "8e92be30",
+            "name": "Alexander Isak",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 20.3
+        }
+    ],
+    "shooting.expected.npxG": [
+        {
+            "id": "1f44ac21",
+            "name": "Erling Haaland",
+            "position": "FW",
+            "team": "Manchester City",
+            "value": 22.9
+        },
+        {
+            "id": "9c36ed83",
+            "name": "Nicolas Jackson",
+            "position": "FW",
+            "team": "Chelsea",
+            "value": 18.6
+        },
+        {
+            "id": "e77dc3b2",
+            "name": "Dominic Solanke",
+            "position": "FW",
+            "team": "Bournemouth",
+            "value": 17.2
+        }
+    ],
+    "shooting.expected.npxG/Sh": [
+        {
+            "id": "28b40c9c",
+            "name": "Tim Ream",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 0.96
+        },
+        {
+            "id": "2886c9b5",
+            "name": "Shandon Baptiste",
+            "position": "MF",
+            "team": "Brentford",
+            "value": 0.45
+        },
+        {
+            "id": "5a7301ae",
+            "name": "Leander Dendoncker",
+            "position": "MF",
+            "team": "Aston Villa",
+            "value": 0.37
+        }
+    ],
+    "shooting.expected.G-xG": [
+        {
+            "id": "ed1e53f3",
+            "name": "Phil Foden",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 8.7
+        },
+        {
+            "id": "15f3ec41",
+            "name": "Callum Hudson-Odoi",
+            "position": "FW,MF",
+            "team": "Nott'ham Forest",
+            "value": 5.3
+        },
+        {
+            "id": "50e6dc35",
+            "name": "Jean-Philippe Mateta",
+            "position": "FW",
+            "team": "Crystal Palace",
+            "value": 5.1
+        }
+    ],
+    "shooting.expected.np:G-xG": [
+        {
+            "id": "ed1e53f3",
+            "name": "Phil Foden",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 8.7
+        },
+        {
+            "id": "15f3ec41",
+            "name": "Callum Hudson-Odoi",
+            "position": "FW,MF",
+            "team": "Nott'ham Forest",
+            "value": 5.3
+        },
+        {
+            "id": "178ae8f8",
+            "name": "Diogo Jota",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 4.7
+        }
+    ],
+    "passing.total.Cmp": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 3365
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 2977
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 2774
+        }
+    ],
+    "passing.total.Att": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 3656
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 3233
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 3223
+        }
+    ],
+    "passing.total.Cmp%": [
+        {
+            "id": "86e7deaf",
+            "name": "Thiago Silva",
+            "position": "DF",
+            "team": "Chelsea",
+            "value": 94.7
+        },
+        {
+            "id": "d00d45ab",
+            "name": "David Ozoh",
+            "position": "MF,DF",
+            "team": "Crystal Palace",
+            "value": 94.1
+        },
+        {
+            "id": "79c0821a",
+            "name": "Mateo Kovačić",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 94.0
+        }
+    ],
+    "passing.total.TotDist": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 57256
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 50791
+        },
+        {
+            "id": "e06683ca",
+            "name": "Virgil van Dijk",
+            "position": "DF",
+            "team": "Liverpool",
+            "value": 49290
+        }
+    ],
+    "passing.total.PrgDist": [
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 26388
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 22385
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 22188
+        }
+    ],
+    "passing.short.Cmp": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 1676
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 1583
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 1343
+        }
+    ],
+    "passing.short.Att": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 1774
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 1674
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 1382
+        }
+    ],
+    "passing.short.Cmp%": [
+        {
+            "id": "466fb2c5",
+            "name": "Aaron Ramsdale",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 100.0
+        },
+        {
+            "id": "d7f99582",
+            "name": "Benson Manuel",
+            "position": "MF,FW",
+            "team": "Burnley",
+            "value": 100.0
+        },
+        {
+            "id": "62d7ef38",
+            "name": "Caoimhín Kelleher",
+            "position": "GK",
+            "team": "Liverpool",
+            "value": 100.0
+        }
+    ],
+    "passing.medium.Cmp": [
+        {
+            "id": "e06683ca",
+            "name": "Virgil van Dijk",
+            "position": "DF",
+            "team": "Liverpool",
+            "value": 1343
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 1340
+        },
+        {
+            "id": "972aeb2a",
+            "name": "William Saliba",
+            "position": "DF",
+            "team": "Arsenal",
+            "value": 1298
+        }
+    ],
+    "passing.medium.Att": [
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 1417
+        },
+        {
+            "id": "e06683ca",
+            "name": "Virgil van Dijk",
+            "position": "DF",
+            "team": "Liverpool",
+            "value": 1412
+        },
+        {
+            "id": "972aeb2a",
+            "name": "William Saliba",
+            "position": "DF",
+            "team": "Arsenal",
+            "value": 1373
+        }
+    ],
+    "passing.medium.Cmp%": [
+        {
+            "id": "68db6358",
+            "name": "Daniel Bentley",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 100.0
+        },
+        {
+            "id": "d00d45ab",
+            "name": "David Ozoh",
+            "position": "MF,DF",
+            "team": "Crystal Palace",
+            "value": 100.0
+        },
+        {
+            "id": "a2852b4f",
+            "name": "Leon Chiwome",
+            "position": "FW",
+            "team": "Wolves",
+            "value": 100.0
+        }
+    ],
+    "passing.long.Cmp": [
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 461
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 394
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 362
+        }
+    ],
+    "passing.long.Att": [
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 1031
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 937
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 832
+        }
+    ],
+    "passing.long.Cmp%": [
+        {
+            "id": "0cd31129",
+            "name": "Brennan Johnson",
+            "position": "FW,MF",
+            "team": "Nott'ham Forest",
+            "value": 100.0
+        },
+        {
+            "id": "77816c91",
+            "name": "Bénie Adama Traore",
+            "position": "FW,MF",
+            "team": "Sheffield Utd",
+            "value": 100.0
+        },
+        {
+            "id": "8b529245",
+            "name": "Carlos Vinícius",
+            "position": "FW",
+            "team": "Fulham",
+            "value": 100.0
+        }
+    ],
+    "passing.expected.Ast": [
+        {
+            "id": "aed3a70f",
+            "name": "Ollie Watkins",
+            "position": "FW",
+            "team": "Aston Villa",
+            "value": 13
+        },
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 11
+        },
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 10
+        }
+    ],
+    "passing.expected.xAG": [
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 11.8
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 11.8
+        },
+        {
+            "id": "92e7e919",
+            "name": "Son Heung-min",
+            "position": "FW",
+            "team": "Tottenham",
+            "value": 11.8
+        }
+    ],
+    "passing.expected.xA": [
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 11.8
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 11.8
+        },
+        {
+            "id": "92e7e919",
+            "name": "Son Heung-min",
+            "position": "FW",
+            "team": "Tottenham",
+            "value": 11.8
+        }
+    ],
+    "passing.expected.A-xAG": [
+        {
+            "id": "aed3a70f",
+            "name": "Ollie Watkins",
+            "position": "FW",
+            "team": "Aston Villa",
+            "value": 5.7
+        },
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 5.1
+        },
+        {
+            "id": "7ba2eaa9",
+            "name": "Pedro Neto",
+            "position": "FW,MF",
+            "team": "Wolves",
+            "value": 4.6
+        }
+    ],
+    "passing.expected.KP": [
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 114
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 103
+        },
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 102
+        }
+    ],
+    "passing.expected.1/3": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 378
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 242
+        },
+        {
+            "id": "1c7012b8",
+            "name": "Declan Rice",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 240
+        }
+    ],
+    "passing.expected.PPA": [
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 130
+        },
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 89
+        },
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 73
+        }
+    ],
+    "passing.expected.CrsPA": [
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 27
+        },
+        {
+            "id": "289601e6",
+            "name": "Antonee Robinson",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 26
+        },
+        {
+            "id": "bf33b257",
+            "name": "Alfie Doughty",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 24
+        }
+    ],
+    "passing.expected.PrgP": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 376
+        },
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 344
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 302
+        }
+    ],
+    "passTypes.passTypes.Live": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 3572
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 3005
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 2903
+        }
+    ],
+    "passTypes.passTypes.Dead": [
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 496
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 493
+        },
+        {
+            "id": "bf33b257",
+            "name": "Alfie Doughty",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 489
+        }
+    ],
+    "passTypes.passTypes.FK": [
+        {
+            "id": "4806ec67",
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "team": "Everton",
+            "value": 223
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 166
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 152
+        }
+    ],
+    "passTypes.passTypes.TB": [
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 39
+        },
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 30
+        },
+        {
+            "id": "9b6f7fd5",
+            "name": "Lucas Paquetá",
+            "position": "FW,MF",
+            "team": "West Ham",
+            "value": 30
+        }
+    ],
+    "passTypes.passTypes.Sw": [
+        {
+            "id": "c8aa95da",
+            "name": "Fabian Schär",
+            "position": "DF",
+            "team": "Newcastle Utd",
+            "value": 41
+        },
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 36
+        },
+        {
+            "id": "cd1acf9d",
+            "name": "Trent Alexander-Arnold",
+            "position": "DF",
+            "team": "Liverpool",
+            "value": 32
+        }
+    ],
+    "passTypes.passTypes.Crs": [
+        {
+            "id": "bf33b257",
+            "name": "Alfie Doughty",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 340
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 238
+        },
+        {
+            "id": "fc15fb84",
+            "name": "Dwight McNeil",
+            "position": "MF,FW",
+            "team": "Everton",
+            "value": 229
+        }
+    ],
+    "passTypes.passTypes.TI": [
+        {
+            "id": "5cbd1eb0",
+            "name": "Tyrick Mitchell",
+            "position": "DF,MF",
+            "team": "Crystal Palace",
+            "value": 347
+        },
+        {
+            "id": "fdf3cb77",
+            "name": "Vladimír Coufal",
+            "position": "DF",
+            "team": "West Ham",
+            "value": 319
+        },
+        {
+            "id": "27d0a506",
+            "name": "Pedro Porro",
+            "position": "DF",
+            "team": "Tottenham",
+            "value": 295
+        }
+    ],
+    "passTypes.passTypes.CK": [
+        {
+            "id": "bf33b257",
+            "name": "Alfie Doughty",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 151
+        },
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 151
+        },
+        {
+            "id": "6639e500",
+            "name": "Andreas Pereira",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 148
+        }
+    ],
+    "passTypes.cornerKicks.In": [
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 99
+        },
+        {
+            "id": "2afc7272",
+            "name": "Lewis Cook",
+            "position": "MF",
+            "team": "Bournemouth",
+            "value": 81
+        },
+        {
+            "id": "bf33b257",
+            "name": "Alfie Doughty",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 66
+        }
+    ],
+    "passTypes.cornerKicks.Out": [
+        {
+            "id": "bf33b257",
+            "name": "Alfie Doughty",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 80
+        },
+        {
+            "id": "6639e500",
+            "name": "Andreas Pereira",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 74
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 57
+        }
+    ],
+    "passTypes.cornerKicks.Str": [
+        {
+            "id": "9744ff80",
+            "name": "Pablo Sarabia",
+            "position": "MF,FW",
+            "team": "Wolves",
+            "value": 10
+        },
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 8
+        },
+        {
+            "id": "21512407",
+            "name": "Kieran Trippier",
+            "position": "DF",
+            "team": "Newcastle Utd",
+            "value": 8
+        }
+    ],
+    "passTypes.outcomes.Cmp": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 3365
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 2977
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 2774
+        }
+    ],
+    "passTypes.outcomes.Off": [
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 23
+        },
+        {
+            "id": "5ff4ab71",
+            "name": "Enzo Fernández",
+            "position": "MF",
+            "team": "Chelsea",
+            "value": 17
+        },
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 16
+        }
+    ],
+    "passTypes.outcomes.Blocks": [
+        {
+            "id": "5cbd1eb0",
+            "name": "Tyrick Mitchell",
+            "position": "DF,MF",
+            "team": "Crystal Palace",
+            "value": 70
+        },
+        {
+            "id": "289601e6",
+            "name": "Antonee Robinson",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 68
+        },
+        {
+            "id": "27d0a506",
+            "name": "Pedro Porro",
+            "position": "DF",
+            "team": "Tottenham",
+            "value": 68
+        }
+    ],
+    "goalShotCreation.SCA.SCA": [
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 220
+        },
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 210
+        },
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 188
+        }
+    ],
+    "goalShotCreation.SCA.SCA90": [
+        {
+            "id": "886f9aac",
+            "name": "Manor Solomon",
+            "position": "FW",
+            "team": "Tottenham",
+            "value": 8.59
+        },
+        {
+            "id": "6ca5ec4b",
+            "name": "Alex Iwobi",
+            "position": "MF",
+            "team": "Everton",
+            "value": 7.77
+        },
+        {
+            "id": "e46012d4",
+            "name": "Kevin De Bruyne",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 7.36
+        }
+    ],
+    "goalShotCreation.SCAtypes.PassLive": [
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 178
+        },
+        {
+            "id": "507c7bdf",
+            "name": "Bruno Fernandes",
+            "position": "MF,FW",
+            "team": "Manchester Utd",
+            "value": 143
+        },
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 137
+        }
+    ],
+    "goalShotCreation.SCAtypes.PassDead": [
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 54
+        },
+        {
+            "id": "3515d404",
+            "name": "James Ward-Prowse",
+            "position": "MF",
+            "team": "West Ham",
+            "value": 51
+        },
+        {
+            "id": "6639e500",
+            "name": "Andreas Pereira",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 48
+        }
+    ],
+    "goalShotCreation.SCAtypes.TO": [
+        {
+            "id": "b62878a5",
+            "name": "Mohammed Kudus",
+            "position": "FW,MF",
+            "team": "West Ham",
+            "value": 25
+        },
+        {
+            "id": "9c36ed83",
+            "name": "Nicolas Jackson",
+            "position": "FW",
+            "team": "Chelsea",
+            "value": 18
+        },
+        {
+            "id": "fffea3e5",
+            "name": "Jeremy Doku",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 17
+        }
+    ],
+    "goalShotCreation.SCAtypes.Sh": [
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 21
+        },
+        {
+            "id": "aed3a70f",
+            "name": "Ollie Watkins",
+            "position": "FW",
+            "team": "Aston Villa",
+            "value": 18
+        },
+        {
+            "id": "4a1a9578",
+            "name": "Luis Díaz",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 15
+        }
+    ],
+    "goalShotCreation.SCAtypes.Fld": [
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 13
+        },
+        {
+            "id": "7aa8adfe",
+            "name": "Alejandro Garnacho",
+            "position": "FW",
+            "team": "Manchester Utd",
+            "value": 12
+        },
+        {
+            "id": "da052c14",
+            "name": "Jordan Ayew",
+            "position": "FW,MF",
+            "team": "Crystal Palace",
+            "value": 12
+        }
+    ],
+    "goalShotCreation.SCAtypes.Def": [
+        {
+            "id": "82518f62",
+            "name": "Bruno Guimarães",
+            "position": "MF",
+            "team": "Newcastle Utd",
+            "value": 6
+        },
+        {
+            "id": "c2731c10",
+            "name": "Conor Gallagher",
+            "position": "MF",
+            "team": "Chelsea",
+            "value": 6
+        },
+        {
+            "id": "72c812f3",
+            "name": "Idrissa Gana Gueye",
+            "position": "MF",
+            "team": "Everton",
+            "value": 6
+        }
+    ],
+    "goalShotCreation.GCA.GCA": [
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 29
+        },
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 26
+        },
+        {
+            "id": "aed3a70f",
+            "name": "Ollie Watkins",
+            "position": "FW",
+            "team": "Aston Villa",
+            "value": 26
+        }
+    ],
+    "goalShotCreation.GCA.GCA90": [
+        {
+            "id": "eed2427e",
+            "name": "Oscar Bobb",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 1.79
+        },
+        {
+            "id": "6fe90922",
+            "name": "Ivan Perišić",
+            "position": "FW",
+            "team": "Tottenham",
+            "value": 1.75
+        },
+        {
+            "id": "b2f9c73e",
+            "name": "Carney Chukwuemeka",
+            "position": "MF,FW",
+            "team": "Chelsea",
+            "value": 1.59
+        }
+    ],
+    "goalShotCreation.GCAtypes.PassLive": [
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 20
+        },
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 18
+        },
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 17
+        }
+    ],
+    "goalShotCreation.GCAtypes.PassDead": [
+        {
+            "id": "3515d404",
+            "name": "James Ward-Prowse",
+            "position": "MF",
+            "team": "West Ham",
+            "value": 7
+        },
+        {
+            "id": "bf33b257",
+            "name": "Alfie Doughty",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 5
+        },
+        {
+            "id": "c2731c10",
+            "name": "Conor Gallagher",
+            "position": "MF",
+            "team": "Chelsea",
+            "value": 5
+        }
+    ],
+    "goalShotCreation.GCAtypes.TO": [
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 5
+        },
+        {
+            "id": "82518f62",
+            "name": "Bruno Guimarães",
+            "position": "MF",
+            "team": "Newcastle Utd",
+            "value": 4
+        },
+        {
+            "id": "178ae8f8",
+            "name": "Diogo Jota",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 4
+        }
+    ],
+    "goalShotCreation.GCAtypes.Sh": [
+        {
+            "id": "aed3a70f",
+            "name": "Ollie Watkins",
+            "position": "FW",
+            "team": "Aston Villa",
+            "value": 7
+        },
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 4
+        },
+        {
+            "id": "2da834f1",
+            "name": "Carlton Morris",
+            "position": "FW,MF",
+            "team": "Luton Town",
+            "value": 3
+        }
+    ],
+    "goalShotCreation.GCAtypes.Fld": [
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 5
+        },
+        {
+            "id": "788c0277",
+            "name": "Chiedozie Ogbene",
+            "position": "MF,DF",
+            "team": "Luton Town",
+            "value": 4
+        },
+        {
+            "id": "a53649b7",
+            "name": "Eddie Nketiah",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 3
+        }
+    ],
+    "goalShotCreation.GCAtypes.Def": [
+        {
+            "id": "99127249",
+            "name": "Antony",
+            "position": "FW",
+            "team": "Manchester Utd",
+            "value": 2
+        },
+        {
+            "id": "dc7f8a28",
+            "name": "Cole Palmer",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 2
+        },
+        {
+            "id": "4e015693",
+            "name": "James Garner",
+            "position": "MF",
+            "team": "Everton",
+            "value": 2
+        }
+    ],
+    "defensiveActions.tackles.Tkl": [
+        {
+            "id": "a78ff07f",
+            "name": "João Palhinha",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 152
+        },
+        {
+            "id": "8b57ad2c",
+            "name": "João Gomes",
+            "position": "MF",
+            "team": "Wolves",
+            "value": 128
+        },
+        {
+            "id": "6a8a7af8",
+            "name": "Vinicius Souza",
+            "position": "MF",
+            "team": "Sheffield Utd",
+            "value": 125
+        }
+    ],
+    "defensiveActions.tackles.TklW": [
+        {
+            "id": "6a8a7af8",
+            "name": "Vinicius Souza",
+            "position": "MF",
+            "team": "Sheffield Utd",
+            "value": 76
+        },
+        {
+            "id": "a78ff07f",
+            "name": "João Palhinha",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 75
+        },
+        {
+            "id": "8b57ad2c",
+            "name": "João Gomes",
+            "position": "MF",
+            "team": "Wolves",
+            "value": 74
+        }
+    ],
+    "defensiveActions.tackles.Def 3rd": [
+        {
+            "id": "a78ff07f",
+            "name": "João Palhinha",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 80
+        },
+        {
+            "id": "5cbd1eb0",
+            "name": "Tyrick Mitchell",
+            "position": "DF,MF",
+            "team": "Crystal Palace",
+            "value": 75
+        },
+        {
+            "id": "8b57ad2c",
+            "name": "João Gomes",
+            "position": "MF",
+            "team": "Wolves",
+            "value": 67
+        }
+    ],
+    "defensiveActions.tackles.Mid 3rd": [
+        {
+            "id": "a78ff07f",
+            "name": "João Palhinha",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 60
+        },
+        {
+            "id": "6a8a7af8",
+            "name": "Vinicius Souza",
+            "position": "MF",
+            "team": "Sheffield Utd",
+            "value": 51
+        },
+        {
+            "id": "83d074ff",
+            "name": "Alexis Mac Allister",
+            "position": "MF",
+            "team": "Liverpool",
+            "value": 50
+        }
+    ],
+    "defensiveActions.tackles.Att 3rd": [
+        {
+            "id": "df3cda47",
+            "name": "Dejan Kulusevski",
+            "position": "FW,MF",
+            "team": "Tottenham",
+            "value": 23
+        },
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 20
+        },
+        {
+            "id": "c2731c10",
+            "name": "Conor Gallagher",
+            "position": "MF",
+            "team": "Chelsea",
+            "value": 17
+        }
+    ],
+    "defensiveActions.challenges.Tkl": [
+        {
+            "id": "a78ff07f",
+            "name": "João Palhinha",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 152
+        },
+        {
+            "id": "83d074ff",
+            "name": "Alexis Mac Allister",
+            "position": "MF",
+            "team": "Liverpool",
+            "value": 125
+        },
+        {
+            "id": "27d0a506",
+            "name": "Pedro Porro",
+            "position": "DF",
+            "team": "Tottenham",
+            "value": 120
+        }
+    ],
+    "defensiveActions.challenges.Att": [
+        {
+            "id": "a78ff07f",
+            "name": "João Palhinha",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 152
+        },
+        {
+            "id": "83d074ff",
+            "name": "Alexis Mac Allister",
+            "position": "MF",
+            "team": "Liverpool",
+            "value": 125
+        },
+        {
+            "id": "27d0a506",
+            "name": "Pedro Porro",
+            "position": "DF",
+            "team": "Tottenham",
+            "value": 120
+        }
+    ],
+    "defensiveActions.challenges.Tkl%": [
+        {
+            "id": "1780bb4a",
+            "name": "Aaron Hickey",
+            "position": "DF",
+            "team": "Brentford",
+            "value": 100.0
+        },
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 100.0
+        },
+        {
+            "id": "8b788c01",
+            "name": "Anthony Martial",
+            "position": "FW",
+            "team": "Manchester Utd",
+            "value": 100.0
+        }
+    ],
+    "defensiveActions.challenges.Lost": [
+        {
+            "id": "0f134faf",
+            "name": "Mathias Jensen",
+            "position": "MF",
+            "team": "Brentford",
+            "value": 69
+        },
+        {
+            "id": "83d074ff",
+            "name": "Alexis Mac Allister",
+            "position": "MF",
+            "team": "Liverpool",
+            "value": 66
+        },
+        {
+            "id": "cd1acf9d",
+            "name": "Trent Alexander-Arnold",
+            "position": "DF",
+            "team": "Liverpool",
+            "value": 60
+        }
+    ],
+    "defensiveActions.blocks.Blocks": [
+        {
+            "id": "15ea812b",
+            "name": "James Tarkowski",
+            "position": "DF",
+            "team": "Everton",
+            "value": 82
+        },
+        {
+            "id": "4d224fe8",
+            "name": "Casemiro",
+            "position": "MF,DF",
+            "team": "Manchester Utd",
+            "value": 74
+        },
+        {
+            "id": "83d074ff",
+            "name": "Alexis Mac Allister",
+            "position": "MF",
+            "team": "Liverpool",
+            "value": 65
+        }
+    ],
+    "defensiveActions.blocks.Sh": [
+        {
+            "id": "15ea812b",
+            "name": "James Tarkowski",
+            "position": "DF",
+            "team": "Everton",
+            "value": 56
+        },
+        {
+            "id": "3e9e06cb",
+            "name": "Craig Dawson",
+            "position": "DF",
+            "team": "Wolves",
+            "value": 39
+        },
+        {
+            "id": "c8aa95da",
+            "name": "Fabian Schär",
+            "position": "DF",
+            "team": "Newcastle Utd",
+            "value": 38
+        }
+    ],
+    "defensiveActions.blocks.Pass": [
+        {
+            "id": "83d074ff",
+            "name": "Alexis Mac Allister",
+            "position": "MF",
+            "team": "Liverpool",
+            "value": 57
+        },
+        {
+            "id": "5cbd1eb0",
+            "name": "Tyrick Mitchell",
+            "position": "DF,MF",
+            "team": "Crystal Palace",
+            "value": 53
+        },
+        {
+            "id": "289601e6",
+            "name": "Antonee Robinson",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 48
+        }
+    ],
+    "defensiveActions.blocks.Int": [
+        {
+            "id": "289601e6",
+            "name": "Antonee Robinson",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 80
+        },
+        {
+            "id": "2afc7272",
+            "name": "Lewis Cook",
+            "position": "MF",
+            "team": "Bournemouth",
+            "value": 65
+        },
+        {
+            "id": "91748070",
+            "name": "Teden Mengi",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 57
+        }
+    ],
+    "defensiveActions.blocks.Tkl+Int": [
+        {
+            "id": "a78ff07f",
+            "name": "João Palhinha",
+            "position": "MF",
+            "team": "Fulham",
+            "value": 198
+        },
+        {
+            "id": "289601e6",
+            "name": "Antonee Robinson",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 173
+        },
+        {
+            "id": "6a8a7af8",
+            "name": "Vinicius Souza",
+            "position": "MF",
+            "team": "Sheffield Utd",
+            "value": 157
+        }
+    ],
+    "defensiveActions.blocks.Clr": [
+        {
+            "id": "e34fc66d",
+            "name": "Joachim Andersen",
+            "position": "DF",
+            "team": "Crystal Palace",
+            "value": 207
+        },
+        {
+            "id": "15ea812b",
+            "name": "James Tarkowski",
+            "position": "DF",
+            "team": "Everton",
+            "value": 191
+        },
+        {
+            "id": "1704b0b8",
+            "name": "Murillo",
+            "position": "DF",
+            "team": "Nott'ham Forest",
+            "value": 188
+        }
+    ],
+    "defensiveActions.blocks.Err": [
+        {
+            "id": "96cf7b61",
+            "name": "Wes Foderingham",
+            "position": "GK",
+            "team": "Sheffield Utd",
+            "value": 6
+        },
+        {
+            "id": "98ea5115",
+            "name": "David Raya",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 5
+        },
+        {
+            "id": "7cd520e8",
+            "name": "Destiny Udogie",
+            "position": "DF",
+            "team": "Tottenham",
+            "value": 5
+        }
+    ],
+    "possession.touches.Touches": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 3988
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 3534
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 3481
+        }
+    ],
+    "possession.touches.Def Pen": [
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 1275
+        },
+        {
+            "id": "a92ab7be",
+            "name": "Mark Flekken",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 1268
+        },
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 1252
+        }
+    ],
+    "possession.touches.Def 3rd": [
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 1811
+        },
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 1664
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 1645
+        }
+    ],
+    "possession.touches.Mid 3rd": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 2337
+        },
+        {
+            "id": "e06683ca",
+            "name": "Virgil van Dijk",
+            "position": "DF",
+            "team": "Liverpool",
+            "value": 1757
+        },
+        {
+            "id": "972aeb2a",
+            "name": "William Saliba",
+            "position": "DF",
+            "team": "Arsenal",
+            "value": 1720
+        }
+    ],
+    "possession.touches.Att 3rd": [
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 1310
+        },
+        {
+            "id": "ed1e53f3",
+            "name": "Phil Foden",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 1211
+        },
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 1173
+        }
+    ],
+    "possession.touches.Att Pen": [
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 271
+        },
+        {
+            "id": "7aa8adfe",
+            "name": "Alejandro Garnacho",
+            "position": "FW",
+            "team": "Manchester Utd",
+            "value": 248
+        },
+        {
+            "id": "e342ad68",
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 241
+        }
+    ],
+    "possession.touches.Live": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 3988
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 3533
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 3481
+        }
+    ],
+    "possession.takeOns.Att": [
+        {
+            "id": "b62878a5",
+            "name": "Mohammed Kudus",
+            "position": "FW,MF",
+            "team": "West Ham",
+            "value": 221
+        },
+        {
+            "id": "fffea3e5",
+            "name": "Jeremy Doku",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 169
+        },
+        {
+            "id": "ae4fc6a4",
+            "name": "Eberechi Eze",
+            "position": "MF,FW",
+            "team": "Crystal Palace",
+            "value": 140
+        }
+    ],
+    "possession.takeOns.Succ": [
+        {
+            "id": "b62878a5",
+            "name": "Mohammed Kudus",
+            "position": "FW,MF",
+            "team": "West Ham",
+            "value": 124
+        },
+        {
+            "id": "fffea3e5",
+            "name": "Jeremy Doku",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 87
+        },
+        {
+            "id": "82518f62",
+            "name": "Bruno Guimarães",
+            "position": "MF",
+            "team": "Newcastle Utd",
+            "value": 72
+        }
+    ],
+    "possession.takeOns.Succ%": [
+        {
+            "id": "d91f104d",
+            "name": "Alfie Gilchrist",
+            "position": "DF",
+            "team": "Chelsea",
+            "value": 100.0
+        },
+        {
+            "id": "2f965a72",
+            "name": "Alphonse Areola",
+            "position": "GK",
+            "team": "West Ham",
+            "value": 100.0
+        },
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 100.0
+        }
+    ],
+    "possession.takeOns.Tkld": [
+        {
+            "id": "b62878a5",
+            "name": "Mohammed Kudus",
+            "position": "FW,MF",
+            "team": "West Ham",
+            "value": 77
+        },
+        {
+            "id": "b400bde0",
+            "name": "Raheem Sterling",
+            "position": "FW,MF",
+            "team": "Chelsea",
+            "value": 70
+        },
+        {
+            "id": "df3cda47",
+            "name": "Dejan Kulusevski",
+            "position": "FW,MF",
+            "team": "Tottenham",
+            "value": 66
+        }
+    ],
+    "possession.takeOns.Tkld%": [
+        {
+            "id": "4f974391",
+            "name": "Aaron Cresswell",
+            "position": "DF,FW",
+            "team": "West Ham",
+            "value": 100.0
+        },
+        {
+            "id": "c40b6180",
+            "name": "Adam Webster",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 100.0
+        },
+        {
+            "id": "24fae784",
+            "name": "Connor Roberts",
+            "position": "DF",
+            "team": "Burnley",
+            "value": 100.0
+        }
+    ],
+    "possession.carries.Carries": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 2513
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 2417
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 2284
+        }
+    ],
+    "possession.carries.TotDist": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 11575
+        },
+        {
+            "id": "31c69ef1",
+            "name": "Rúben Dias",
+            "position": "DF",
+            "team": "Manchester City",
+            "value": 10862
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 10752
+        }
+    ],
+    "possession.carries.PrgDist": [
+        {
+            "id": "31c69ef1",
+            "name": "Rúben Dias",
+            "position": "DF",
+            "team": "Manchester City",
+            "value": 6693
+        },
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 6408
+        },
+        {
+            "id": "4fd08daa",
+            "name": "Jan Paul van Hecke",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 6274
+        }
+    ],
+    "possession.carries.ProgC": [
+        {
+            "id": "31c69ef1",
+            "name": "Rúben Dias",
+            "position": "DF",
+            "team": "Manchester City",
+            "value": 6693
+        },
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 6408
+        },
+        {
+            "id": "4fd08daa",
+            "name": "Jan Paul van Hecke",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 6274
+        }
+    ],
+    "possession.carries.1/3": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 88
+        },
+        {
+            "id": "7aa8adfe",
+            "name": "Alejandro Garnacho",
+            "position": "FW",
+            "team": "Manchester Utd",
+            "value": 83
+        },
+        {
+            "id": "79300479",
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 83
+        }
+    ],
+    "possession.carries.CPA": [
+        {
+            "id": "fffea3e5",
+            "name": "Jeremy Doku",
+            "position": "FW,MF",
+            "team": "Manchester City",
+            "value": 147
+        },
+        {
+            "id": "7aa8adfe",
+            "name": "Alejandro Garnacho",
+            "position": "FW",
+            "team": "Manchester Utd",
+            "value": 102
+        },
+        {
+            "id": "df3cda47",
+            "name": "Dejan Kulusevski",
+            "position": "FW,MF",
+            "team": "Tottenham",
+            "value": 82
+        }
+    ],
+    "possession.carries.Mis": [
+        {
+            "id": "e77dc3b2",
+            "name": "Dominic Solanke",
+            "position": "FW",
+            "team": "Bournemouth",
+            "value": 136
+        },
+        {
+            "id": "50e6dc35",
+            "name": "Jean-Philippe Mateta",
+            "position": "FW",
+            "team": "Crystal Palace",
+            "value": 89
+        },
+        {
+            "id": "9c36ed83",
+            "name": "Nicolas Jackson",
+            "position": "FW",
+            "team": "Chelsea",
+            "value": 87
+        }
+    ],
+    "possession.carries.Dis": [
+        {
+            "id": "b62878a5",
+            "name": "Mohammed Kudus",
+            "position": "FW,MF",
+            "team": "West Ham",
+            "value": 93
+        },
+        {
+            "id": "e77dc3b2",
+            "name": "Dominic Solanke",
+            "position": "FW",
+            "team": "Bournemouth",
+            "value": 81
+        },
+        {
+            "id": "9b6f7fd5",
+            "name": "Lucas Paquetá",
+            "position": "FW,MF",
+            "team": "West Ham",
+            "value": 81
+        }
+    ],
+    "possession.receiving.Rec": [
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 3242
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 2736
+        },
+        {
+            "id": "282f75f3",
+            "name": "Lewis Dunk",
+            "position": "DF",
+            "team": "Brighton",
+            "value": 2681
+        }
+    ],
+    "possession.receiving.PrgR": [
+        {
+            "id": "bc7dc64d",
+            "name": "Bukayo Saka",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 508
+        },
+        {
+            "id": "df3cda47",
+            "name": "Dejan Kulusevski",
+            "position": "FW,MF",
+            "team": "Tottenham",
+            "value": 388
+        },
+        {
+            "id": "48a5a5d6",
+            "name": "Gabriel Martinelli",
+            "position": "FW",
+            "team": "Arsenal",
+            "value": 345
+        }
+    ],
+    "playingTime_details.starts.Starts": [
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 38
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 38
+        },
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 38
+        }
+    ],
+    "playingTime_details.starts.Mn/Start": [
+        {
+            "id": "466fb2c5",
+            "name": "Aaron Ramsdale",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 90.0
+        },
+        {
+            "id": "7a2e46a8",
+            "name": "Alisson",
+            "position": "GK",
+            "team": "Liverpool",
+            "value": 90.0
+        },
+        {
+            "id": "c393a6c4",
+            "name": "Andrew Omobamidele",
+            "position": "DF",
+            "team": "Nott'ham Forest",
+            "value": 90.0
+        }
+    ],
+    "playingTime_details.starts.Compl": [
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 38
+        },
+        {
+            "id": "2628fd2b",
+            "name": "Bernd Leno",
+            "position": "GK",
+            "team": "Fulham",
+            "value": 38
+        },
+        {
+            "id": "77d6fd4d",
+            "name": "Guglielmo Vicario",
+            "position": "GK",
+            "team": "Tottenham",
+            "value": 38
+        }
+    ],
+    "playingTime_details.subs.Subs": [
+        {
+            "id": "8b04d6c1",
+            "name": "Pierre Højbjerg",
+            "position": "MF",
+            "team": "Tottenham",
+            "value": 28
+        },
+        {
+            "id": "b9e1436c",
+            "name": "Harvey Elliott",
+            "position": "MF,FW",
+            "team": "Liverpool",
+            "value": 23
+        },
+        {
+            "id": "d3085b49",
+            "name": "Cauley Woodrow",
+            "position": "FW,MF",
+            "team": "Luton Town",
+            "value": 22
+        }
+    ],
+    "playingTime_details.subs.Mn/Sub": [
+        {
+            "id": "2bd83368",
+            "name": "Anthony Gordon",
+            "position": "FW",
+            "team": "Newcastle Utd",
+            "value": 79.0
+        },
+        {
+            "id": "4b542852",
+            "name": "Adam Wharton",
+            "position": "MF",
+            "team": "Crystal Palace",
+            "value": 63.0
+        },
+        {
+            "id": "68db6358",
+            "name": "Daniel Bentley",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 57.0
+        }
+    ],
+    "playingTime_details.subs.unSub": [
+        {
+            "id": "68db6358",
+            "name": "Daniel Bentley",
+            "position": "GK",
+            "team": "Wolves",
+            "value": 33
+        },
+        {
+            "id": "339fe0e8",
+            "name": "Thomas Strakosha",
+            "position": "GK",
+            "team": "Brentford",
+            "value": 32
+        },
+        {
+            "id": "466fb2c5",
+            "name": "Aaron Ramsdale",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 31
+        }
+    ],
+    "playingTime_details.teamSuccess.PPM": [
+        {
+            "id": "529f49ab",
+            "name": "Thomas Partey",
+            "position": "MF,DF",
+            "team": "Arsenal",
+            "value": 2.71
+        },
+        {
+            "id": "466fb2c5",
+            "name": "Aaron Ramsdale",
+            "position": "GK",
+            "team": "Arsenal",
+            "value": 2.67
+        },
+        {
+            "id": "e46012d4",
+            "name": "Kevin De Bruyne",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 2.67
+        }
+    ],
+    "playingTime_details.teamSuccess.onG": [
+        {
+            "id": "972aeb2a",
+            "name": "William Saliba",
+            "position": "DF",
+            "team": "Arsenal",
+            "value": 91
+        },
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 87
+        },
+        {
+            "id": "1c7012b8",
+            "name": "Declan Rice",
+            "position": "MF",
+            "team": "Arsenal",
+            "value": 84
+        }
+    ],
+    "playingTime_details.teamSuccess.onGA": [
+        {
+            "id": "eab957a3",
+            "name": "Anel Ahmedhodžić",
+            "position": "DF",
+            "team": "Sheffield Utd",
+            "value": 89
+        },
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 85
+        },
+        {
+            "id": "eebacc07",
+            "name": "Gustavo Hamer",
+            "position": "MF",
+            "team": "Sheffield Utd",
+            "value": 83
+        }
+    ],
+    "playingTime_details.teamSuccessxG.onxG": [
+        {
+            "id": "e06683ca",
+            "name": "Virgil van Dijk",
+            "position": "DF",
+            "team": "Liverpool",
+            "value": 82.1
+        },
+        {
+            "id": "972aeb2a",
+            "name": "William Saliba",
+            "position": "DF",
+            "team": "Arsenal",
+            "value": 76.1
+        },
+        {
+            "id": "82518f62",
+            "name": "Bruno Guimarães",
+            "position": "MF",
+            "team": "Newcastle Utd",
+            "value": 74.0
+        }
+    ],
+    "playingTime_details.teamSuccessxG.onxGA": [
+        {
+            "id": "1caa93a5",
+            "name": "Thomas Kaminski",
+            "position": "GK",
+            "team": "Luton Town",
+            "value": 77.6
+        },
+        {
+            "id": "e9c0c1b2",
+            "name": "André Onana",
+            "position": "GK",
+            "team": "Manchester Utd",
+            "value": 68.9
+        },
+        {
+            "id": "d0f72bf1",
+            "name": "Max Kilman",
+            "position": "DF",
+            "team": "Wolves",
+            "value": 67.7
+        }
+    ],
+    "miscellaneousStats.performance.Fls": [
+        {
+            "id": "c2731c10",
+            "name": "Conor Gallagher",
+            "position": "MF",
+            "team": "Chelsea",
+            "value": 83
+        },
+        {
+            "id": "8b57ad2c",
+            "name": "João Gomes",
+            "position": "MF",
+            "team": "Wolves",
+            "value": 66
+        },
+        {
+            "id": "df3cda47",
+            "name": "Dejan Kulusevski",
+            "position": "FW,MF",
+            "team": "Tottenham",
+            "value": 54
+        }
+    ],
+    "miscellaneousStats.performance.Fld": [
+        {
+            "id": "82518f62",
+            "name": "Bruno Guimarães",
+            "position": "MF",
+            "team": "Newcastle Utd",
+            "value": 108
+        },
+        {
+            "id": "da052c14",
+            "name": "Jordan Ayew",
+            "position": "FW,MF",
+            "team": "Crystal Palace",
+            "value": 94
+        },
+        {
+            "id": "b62878a5",
+            "name": "Mohammed Kudus",
+            "position": "FW,MF",
+            "team": "West Ham",
+            "value": 75
+        }
+    ],
+    "miscellaneousStats.performance.Off": [
+        {
+            "id": "4d77b365",
+            "name": "Darwin Núñez",
+            "position": "FW",
+            "team": "Liverpool",
+            "value": 33
+        },
+        {
+            "id": "9c36ed83",
+            "name": "Nicolas Jackson",
+            "position": "FW",
+            "team": "Chelsea",
+            "value": 28
+        },
+        {
+            "id": "59e6e5bf",
+            "name": "Dominic Calvert-Lewin",
+            "position": "FW",
+            "team": "Everton",
+            "value": 24
+        }
+    ],
+    "miscellaneousStats.performance.Crs": [
+        {
+            "id": "bf33b257",
+            "name": "Alfie Doughty",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 340
+        },
+        {
+            "id": "8aec0537",
+            "name": "Pascal Groß",
+            "position": "MF,DF",
+            "team": "Brighton",
+            "value": 238
+        },
+        {
+            "id": "fc15fb84",
+            "name": "Dwight McNeil",
+            "position": "MF,FW",
+            "team": "Everton",
+            "value": 229
+        }
+    ],
+    "miscellaneousStats.performance.OG": [
+        {
+            "id": "289601e6",
+            "name": "Antonee Robinson",
+            "position": "DF",
+            "team": "Fulham",
+            "value": 2
+        },
+        {
+            "id": "10cb48b7",
+            "name": "Daiki Hashioka",
+            "position": "DF",
+            "team": "Luton Town",
+            "value": 2
+        },
+        {
+            "id": "7956236f",
+            "name": "Emiliano Martínez",
+            "position": "GK",
+            "team": "Aston Villa",
+            "value": 2
+        }
+    ],
+    "miscellaneousStats.performance.Recov": [
+        {
+            "id": "82518f62",
+            "name": "Bruno Guimarães",
+            "position": "MF",
+            "team": "Newcastle Utd",
+            "value": 237
+        },
+        {
+            "id": "6434f10d",
+            "name": "Rodri",
+            "position": "MF",
+            "team": "Manchester City",
+            "value": 235
+        },
+        {
+            "id": "26ce2263",
+            "name": "Ryan Christie",
+            "position": "MF",
+            "team": "Bournemouth",
+            "value": 231
+        }
+    ],
+    "miscellaneousStats.aerialDuels.Won": [
+        {
+            "id": "15ea812b",
+            "name": "James Tarkowski",
+            "position": "DF",
+            "team": "Everton",
+            "value": 140
+        },
+        {
+            "id": "e06683ca",
+            "name": "Virgil van Dijk",
+            "position": "DF",
+            "team": "Liverpool",
+            "value": 140
+        },
+        {
+            "id": "59e6e5bf",
+            "name": "Dominic Calvert-Lewin",
+            "position": "FW",
+            "team": "Everton",
+            "value": 137
+        }
+    ],
+    "miscellaneousStats.aerialDuels.Lost": [
+        {
+            "id": "2da834f1",
+            "name": "Carlton Morris",
+            "position": "FW,MF",
+            "team": "Luton Town",
+            "value": 169
+        },
+        {
+            "id": "59e6e5bf",
+            "name": "Dominic Calvert-Lewin",
+            "position": "FW",
+            "team": "Everton",
+            "value": 144
+        },
+        {
+            "id": "e77dc3b2",
+            "name": "Dominic Solanke",
+            "position": "FW",
+            "team": "Bournemouth",
+            "value": 135
+        }
+    ],
+    "miscellaneousStats.aerialDuels.Won%": [
+        {
+            "id": "99aa1a84",
+            "name": "Arijanet Muric",
+            "position": "GK",
+            "team": "Burnley",
+            "value": 100.0
+        },
+        {
+            "id": "cf134113",
+            "name": "Bart Verbruggen",
+            "position": "GK",
+            "team": "Brighton",
+            "value": 100.0
+        },
+        {
+            "id": "62d7ef38",
+            "name": "Caoimhín Kelleher",
+            "position": "GK",
+            "team": "Liverpool",
+            "value": 100.0
+        }
+    ]
+}
